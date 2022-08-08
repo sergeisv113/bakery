@@ -115,6 +115,7 @@ nav {
 /*    del auto margin*/
     margin: 0;
     margin-bottom: 9px;
+    font-family: 'Philosopher';
 }
 .section-about__text {
     font-size: 12px;
@@ -143,6 +144,8 @@ section-description__icon-box img  -selector дочерн елем
     font-size: 96px;
     margin: 0;
     text-align: center;
+    font-family: 'Philosopher';
+
 }
 .red {
     color: #F15B40;
@@ -159,6 +162,8 @@ section-description__icon-box img  -selector дочерн елем
     margin-bottom: 20px;
     text-align: center;
     font-size: 36px;
+    font-family: 'Philosopher';
+
 }
 .section-map {
     margin-bottom: 20px;
