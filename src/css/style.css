@@ -1,0 +1,35 @@
+body {
+    background-color: #FFE2B0;
+}
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+ul {
+    /*del doddet*/
+    list-style-type: none;
+    text-align: center;
+    padding: 0px;
+}
+li {
+    /*li - size = block*/
+    display: inline;
+    margin: 100px;
+}
+a {
+    color: black;
+    /*del linea*/
+    text-decoration: none;
+    font-size: 18px;
+}
+/*a:hover {
+    color: rebeccapurple;
+    font-size: 100px;
+}*/
+li:last-child {
+    /*del last margin*/
+    margin-right: 0px;
+}
+nav {
+    margin-bottom: 20px;
+}
