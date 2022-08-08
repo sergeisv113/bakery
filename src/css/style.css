@@ -27,6 +27,16 @@
     font-weight: 700;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Philosopher';
+    src: local('Philosopher');
+    src: url('../fonts/Philosopher.eot');
+    src: url('../fonts/Philosopher.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Philosopher.woff') format('woff'),
+    url('../fonts/Philosopher.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
 html {
     font-family: 'Roboto!';
 }
